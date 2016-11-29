@@ -11,3 +11,7 @@
 *.tmp
 
 ~*.*
+
+/BACKUP_FILE/*
+
+/INPUT/*
